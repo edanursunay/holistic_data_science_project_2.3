@@ -1,4 +1,4 @@
-# Holistic Data Science Pşroject -part 2- version2.3
+# Holistic Data Science Project -part 2- version2.3
 ## Objective 
 A research project to measure the impact of Clean Water and Sanitation on standard of living
 ## About Dataset
